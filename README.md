@@ -7,5 +7,5 @@ Open `cli` in project dir<br/>
 Run `npm i`
 ### Options to run API <br/>
 To run locally use `npm run start:dev`<br/>
-To run build use npm `run start:prod`<br/>
+To run build use npm `npm run start:prod`<br/>
 To run with cluster abilities use `npm run start:multi`
